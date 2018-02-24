@@ -1,0 +1,22 @@
+
+
+#busuanzi_container_page_pv{
+    display: block !important;
+    clear: both;
+    width: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-family: Menlo,Monaco,Andale Mono,lucida console,Courier New,monospace;
+    text-shadow: 0 1px #fff;
+    color: #928888;
+}
+.icon-ma{
+    background-color: #C71D23;
+    color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+}
+.profilepic:hover{
+    transition: transform .5s linear; 
+    transform: rotate(360deg);
+}
